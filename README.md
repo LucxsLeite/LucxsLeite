@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Lucas
+</h1>
 
-<!--
-**LucxsLeite/LucxsLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  A Backend Developer in training from Brazil.
+</h3>
 
-Here are some ideas to get you started:
+- Information Systems Student at UFF
+- Focused on Backend Development
+- Currently learning TypeScript, Node.js and PostgreSQL
+- Interested in Backend, DevOps and Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2>😁 Toolbox</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs,prisma,postgres,docker,redis,git,github,postman,vscode,python,c,java,html,css" />
+</p>
+
+<h2>Connect with me!</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-leite-462a25246?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/lucasleite.x?stkn=MWpsOXUzd205cHV4Yg%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:lucasleiteand@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
