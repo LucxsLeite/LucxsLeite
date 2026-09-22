@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/lucas-leite-462a25246?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/lucasleite.x?stkn=MWpsOXUzd205cHV4Yg%3D%3D&utm_source=qr">
+  <a href="https://www.instagram.com/_lucaslar?stkn=MWpsOXUzd205cHV4Yg%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:lucasleiteand@gmail.com">
